@@ -4,5 +4,5 @@
 - 💞️ I'm here to add to the developer community, exposing my projects and knowledge.
 - 📫 contacts: 
   Email: victor-siqueira01@hotmail.com 
-  linkedin: https://www.linkedin.com/in/victor-manoel-452522145/
+  linkedin: https://www.linkedin.com/in/victormnoel/
 
