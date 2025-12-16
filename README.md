@@ -1,5 +1,5 @@
 - 👋 Hi I'm @victormnoel
-- 👀 Now my focus is programming and I'm on my way to becoming a back-end.
+- 👀 My goal is to deliver efficient, high-quality software.
 - 👉 Currently all my studies are focused on programming and I intend to keep it that way.
 - 💞️ I'm here to add to the developer community, exposing my projects and knowledge.
 - 📫 contacts: 
